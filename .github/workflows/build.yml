@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: "14.13.1"
       # Run npm install to install project packages
-      - run: yarn install --frozen-lockfile
+      - run: yarn install
       # npm run build to build the project
       - run: yarn build
       # publish the files to NPM
