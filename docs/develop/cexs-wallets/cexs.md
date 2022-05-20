@@ -15,7 +15,7 @@ image: https://matic.network/banners/matic-network-16x9.png
 |7  |Bithumb Korea       |CEX         |                                                                                                        |
 |8  |BitBnS              |CEX         |MATIC, USDC, USDT, WETH, LINK, AAVE                                                                                          |
 |9  |Bitfinex            |CEX         |                                                                                                                             |
-|10 |KuCoin              |CEX         |MATIC                                                                                                                       |
+|10 |KuCoin              |CEX         |                                                                                                                       |
 |11 |SwapSwop (Estonia)  |CEX         |                                                                                                                             |
 |12 |CoinSwitch Kuber    |CEX         |                                                                                                                             |                                                                                                                   |
 |14 |Huobi               |CEX         |                                                                                                                             |                                                                                                               |
